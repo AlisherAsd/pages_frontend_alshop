@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pages_frontend_alshop/static/css/main.97e1d09a.css",
+    "main.js": "/pages_frontend_alshop/static/js/main.083049c5.js",
+    "index.html": "/pages_frontend_alshop/index.html",
+    "main.97e1d09a.css.map": "/pages_frontend_alshop/static/css/main.97e1d09a.css.map",
+    "main.083049c5.js.map": "/pages_frontend_alshop/static/js/main.083049c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e1d09a.css",
+    "static/js/main.083049c5.js"
+  ]
+}
