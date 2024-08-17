@@ -1,0 +1,15 @@
+footer {
+    margin-bottom: 100px;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    min-height: 80%;
+    max-width: 1800px;
+    background: #000000;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.Span {
+    margin-right: 20px;
+    display: flex;
+}

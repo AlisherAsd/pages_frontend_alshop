@@ -1,0 +1,40 @@
+.itemspage-container {
+    padding: 4% 4% 2% 4%;
+}
+
+
+.centerItem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.select {
+    display: flex;
+    margin: 30px;
+}
+
+
+
+input {
+    width: 100%;
+    text-align: center;
+    padding: 12px 20px;
+}
+
+.text-center {
+    margin-left: 43%;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .text-center {
+        margin-left: 40%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .text-center {
+        margin-left: 37%;
+    }
+}
